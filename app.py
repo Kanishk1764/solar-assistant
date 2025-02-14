@@ -4,7 +4,7 @@ import requests
 def get_ai_response(prompt, conversation_history):
     """Get response from AI model via OpenRouter"""
     try:
-        api_key = "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"
+        api_key = "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"
 
         headers = {
             "Authorization": f"Bearer {api_key}",
