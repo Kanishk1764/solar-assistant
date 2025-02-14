@@ -28,7 +28,7 @@ This project implements an AI-powered assistant specializing in solar industry c
 ### Installation Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/solar-assistant.git
+https://github.com/Kanishk1764/solar-assistant.git
 cd solar-assistant
 ```
 
